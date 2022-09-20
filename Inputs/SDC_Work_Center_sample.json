@@ -1,0 +1,28 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"WorkCenter": {
+		"WorkCenterInternalID": "10000000",
+		"WorkCenterTypeCode": "A",
+		"WorkCenter": "",
+		"WorkCenter_desc": "",
+		"Plant": "",
+		"WorkCenterCategoryCode": "",
+		"WorkCenterResponsible": "",
+		"SupplyArea": "",
+		"WorkCenterUsage": "",
+		"MatlCompIsMarkedForBackflush": true,
+		"WorkCenterLocation": "",
+		"CapacityInternalID": "",
+		"CapacityCategoryCode": "",
+		"ValidityStartDate": "",
+		"ValidityEndDate": "",
+		"WorkCenterIsToBeDeleted": false
+	},
+	"api_schema": "SAPWorkCenterReads",
+	"accepter": ["WorkCenter"],
+	"work_center_code": "10000000",
+	"deleted": false
+}
